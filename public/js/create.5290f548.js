@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["create"],{d879:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"create"},[n("article-form")],1)},r=[],c=n("5842"),l={name:"Create",components:{ArticleForm:c["a"]}},s=l,o=n("2877"),i=Object(o["a"])(s,a,r,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=create.5290f548.js.map
